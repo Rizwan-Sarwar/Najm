@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: none } 
+		.s1 { fill: #55565a } 
+	</style>
+	<g id="dashboard">
+		<path id="Path 4701" class="s0" d="m-3-3h28v28h-28z"/>
+		<path id="Path 4702" class="s1" d="m0.5 1.5c0-0.6 0.4-1 1-1h7.3c0.6 0 1 0.4 1 1v9.7c0 0.5-0.4 1-1 1h-7.3c-0.6 0-1-0.5-1-1zm0 14c0-0.6 0.4-1 1-1h7.3c0.6 0 1 0.4 1 1v5c0 0.5-0.4 1-1 1h-7.3c-0.6 0-1-0.5-1-1zm11.7-4.7c0-0.6 0.4-1 1-1h7.3c0.6 0 1 0.4 1 1v9.7c0 0.5-0.4 1-1 1h-7.3c-0.6 0-1-0.5-1-1zm0-9.4c0-0.5 0.4-1 1-1h7.3c0.6 0 1 0.5 1 1v5c0 0.6-0.4 1-1 1h-7.3c-0.6 0-1-0.4-1-1z"/>
+	</g>
+</svg>

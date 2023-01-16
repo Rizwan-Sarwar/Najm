@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #ebebeb;stroke: #707070 } 
+		.s1 { fill: none;stroke: #55565a;stroke-linecap: round } 
+	</style>
+	<g id="Trend_icon">
+		<path id="Ellipse 158" class="s0" d="m11 22c-6.1 0-11-4.9-11-11 0-6.1 4.9-11 11-11 6.1 0 11 4.9 11 11 0 6.1-4.9 11-11 11z"/>
+		<g id="Group 4173">
+			<path id="Path 5700" class="s1" d="m6.1 16.2l4.9-2.8-1.6-2.7 6.5-3.8"/>
+			<path id="Path 5701" class="s1" d="m12.5 6l3.4 0.9-0.9 3.4"/>
+		</g>
+	</g>
+</svg>

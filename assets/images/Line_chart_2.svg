@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 209" width="405" height="209">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 11px;fill: #444444;font-family: "D IN Next LT Arabic" } 
+		.t1 { font-size: 10px;fill: #444444;font-family: "D IN Next LT Arabic" } 
+		.s2 { fill: none;stroke: #d9d9d9 } 
+		.s3 { fill: none;stroke: #707070 } 
+	</style>
+	<text id="0" style="transform: matrix(1,0,0,1,75.978,82.539)" >
+		<tspan x="0" y="0" class="t0">0
+</tspan>
+	</text>
+	<text id="No registered
+source" style="transform: matrix(1,0,0,1,-0.138,77.536)" >
+		<tspan x="0" y="0" class="t1">No registered
+</tspan>
+		<tspan x="0" y="12" class="t1">source
+</tspan>
+	</text>
+	<path id="Line 27" class="s2" d="m100.4 0.7v207.3"/>
+	<path id="Line 28" class="s2" d="m404.2 15.1h-344.8"/>
+	<path id="Line 29" class="s2" d="m404.9 53.5h-345.3"/>
+	<path id="Line 30" class="s2" d="m404.9 106.5h-345.3"/>
+	<path id="Line 43" class="s2" d="m404.9 145h-345.3"/>
+	<path id="Line 44" class="s2" d="m404.9 174h-345.3"/>
+	<path id="Line 31" class="s2" d="m124.7 0.7v207.3"/>
+	<path id="Line 32" class="s2" d="m149.1 0.7v207.3"/>
+	<path id="Line 33" class="s2" d="m173.5 0.7v207.3"/>
+	<path id="Line 34" class="s2" d="m197.8 0.7v207.3"/>
+	<path id="Line 35" class="s2" d="m222.2 0.7v207.3"/>
+	<path id="Line 36" class="s2" d="m246.6 0.7v207.3"/>
+	<path id="Line 37" class="s2" d="m270.9 0.7v207.3"/>
+	<path id="Line 38" class="s2" d="m295.3 0.7v207.3"/>
+	<path id="Line 39" class="s2" d="m319.6 0.7v207.3"/>
+	<path id="Line 40" class="s2" d="m344 0.7v207.3"/>
+	<path id="Line 41" class="s2" d="m368.4 0.7v207.3"/>
+	<path id="Line 42" class="s2" d="m392.7 0.7v207.3"/>
+	<path id="Path 6478" class="s3" d="m404.9 208h-339v-207"/>
+</svg>

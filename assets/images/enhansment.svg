@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 40" width="39" height="40">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: none;stroke: #55565a;stroke-linecap: round;stroke-width: 2 } 
+	</style>
+	<g id="enhancements">
+		<path id="Path 4695" class="s0" d="m37.9 6.4v19.2c0 1.1-0.9 2.1-2 2.1h-32.8c-1.2 0-2.1-1-2.1-2.1v-19.2z"/>
+		<path id="Path 4696" class="s0" d="m35.9 1.5c1.1 0 2 0.9 2 2v2.9h-36.9v-2.9c0-1.1 0.9-2 2.1-2z"/>
+		<path id="Ellipse 5" class="s0" d="m19.5 38.4c-2.2 0-4-1.8-4-3.9 0-2.2 1.8-4 4-4 2.2 0 3.9 1.8 3.9 4 0 2.1-1.7 3.9-3.9 3.9z"/>
+		<path id="Path 4697" class="s0" d="m21.6 27.7v3.4c-0.6-0.4-1.4-0.6-2.1-0.6-0.8 0-1.5 0.2-2.2 0.6v-3.4z"/>
+		<path id="Rectangle 3834" class="s0" d="m6.2 16.6c0-0.3 0.2-0.5 0.4-0.5h5.4c0.2 0 0.5 0.2 0.5 0.5v7c0 0.3-0.3 0.5-0.5 0.5h-5.4c-0.2 0-0.4-0.2-0.4-0.5z"/>
+		<path id="Rectangle 3835" class="s0" d="m16.4 12.6c0-0.3 0.3-0.6 0.6-0.6h5.2c0.3 0 0.5 0.3 0.5 0.6v11c0 0.2-0.2 0.5-0.5 0.5h-5.2c-0.3 0-0.6-0.3-0.6-0.5z"/>
+		<path id="Rectangle 3836" class="s0" d="m26.7 9.8c0-0.3 0.3-0.6 0.6-0.6h5.1c0.4 0 0.6 0.3 0.6 0.6v13.7c0 0.3-0.2 0.6-0.6 0.6h-5.1c-0.3 0-0.6-0.3-0.6-0.6z"/>
+	</g>
+</svg>

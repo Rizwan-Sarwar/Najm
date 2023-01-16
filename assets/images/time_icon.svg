@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 48" width="50" height="48">
+	<title>New Project</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-1.8369701987210297e-16" dy="3" stdDeviation="2.916666666666667" flood-color="#000000" flood-opacity=".2"/></filter>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: #d6e6de } 
+		.s1 { fill: #32835b } 
+	</style>
+	<g id="Actual_icon">
+		<path id="Ellipse 115" class="s0" d="m25 44c-10.5 0-19-8.7-19-19.5 0-10.8 8.5-19.5 19-19.5 10.5 0 19 8.7 19 19.5 0 10.8-8.5 19.5-19 19.5z"/>
+	</g>
+	<path id="time" fill-rule="evenodd" class="s1" d="m33.8 24.5c0 4.9-3.9 8.8-8.8 8.8-4.9 0-8.8-3.9-8.8-8.8 0-4.9 3.9-8.8 8.8-8.8 4.9 0 8.8 3.9 8.8 8.8zm-16 0c0 4 3.2 7.2 7.2 7.2 4 0 7.2-3.2 7.2-7.2 0-4-3.2-7.2-7.2-7.2-4 0-7.2 3.2-7.2 7.2zm7.8-5.4q0.2 0.2 0.2 0.6v4.5l3 2.9c0.3 0.4 0.3 0.9 0 1.2-0.3 0.3-0.8 0.3-1.2 0l-3.2-3.2q-0.2-0.3-0.2-0.6v-4.8q0-0.4 0.2-0.6 0.3-0.2 0.6-0.2 0.3 0 0.6 0.2z"/>
+</svg>

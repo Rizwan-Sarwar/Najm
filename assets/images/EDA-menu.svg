@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 24" width="22" height="24">
+	<title>New Project</title>
+	<defs>
+		<image  width="1280" height="720" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQAQMAAAD1s08VAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAACHSURBVHic7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgaxN8AAQfAspoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #32835b } 
+	</style>
+	<use id="Background" href="#img1" x="-986" y="-169"/>
+	<g id="Group 4558">
+		<path id="Path 6313" fill-rule="evenodd" class="s0" d="m0.5 0.6h15.8v22.8h-15.8zm1.2 21.6h13.3v-20.3h-13.3z"/>
+		<path id="Path 6314" fill-rule="evenodd" class="s0" d="m21.5 20.1l-1.8 3.3-1.8-3.3v-19.5h3.6zm-1.2-18.3h-1.1v17.9l0.5 1 0.6-1z"/>
+		<path id="Path 6315" class="s0" d="m6.5 5.2l0.5-0.4 0.8 0.9-0.5 0.5-2.6 2.2-1.2-1.4-0.5-0.5 1-0.8 0.4 0.4 0.5 0.5z"/>
+		<path id="Path 6316" class="s0" d="m6.5 10.6l0.5-0.4 0.8 0.9-0.5 0.5-2.6 2.2-1.2-1.4-0.5-0.5 1-0.9 0.4 0.5 0.5 0.5z"/>
+		<path id="Path 6317" class="s0" d="m6.5 16l0.5-0.4 0.8 0.9-0.5 0.4-2.6 2.3-1.2-1.4-0.5-0.5 1-0.9 0.4 0.5 0.5 0.5z"/>
+		<path id="Path 6318" class="s0" d="m12.5 5.1h0.7v1.3h-3.9v-1.3z"/>
+		<path id="Path 6319" class="s0" d="m12.5 7h0.7v1.3h-3.9v-1.3z"/>
+		<path id="Path 6320" class="s0" d="m12.5 10.2h0.7v1.3h-3.9v-1.3z"/>
+		<path id="Path 6321" class="s0" d="m12.5 12.1h0.7v1.3h-3.9v-1.3z"/>
+		<path id="Path 6322" class="s0" d="m12.5 17h0.7v1.3h-3.9v-1.3z"/>
+	</g>
+</svg>

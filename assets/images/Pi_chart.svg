@@ -1,0 +1,37 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297 180" width="297" height="180">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #db6b2a } 
+		.s1 { fill: #cb150c } 
+		.s2 { fill: #e6c068 } 
+		.s3 { fill: #32835b } 
+		.t4 { font-size: 10px;fill: #444444;font-family: "D IN Next LT Arabic" } 
+	</style>
+	<g id="Group 4487">
+		<path id="Path 6461" class="s0" d="m197.7 77c0 16.2-5.2 32-14.7 45.1-9.5 13.1-23 22.9-38.4 27.9-15.4 5-32 5-47.4 0-15.4-5-28.9-14.8-38.4-27.9l62.1-45.1z"/>
+		<path id="Path 6462" class="s1" d="m87.7 146.2c-11.7-5.6-21.7-14-29.3-24.5l62.5-44.7z"/>
+		<path id="Path 6463" class="s2" d="m96.9 4.1c11.5-3.8 23.8-4.8 35.8-2.9 12 1.8 23.4 6.5 33.3 13.7 9.8 7.1 17.8 16.5 23.3 27.3 5.5 10.8 8.4 22.8 8.4 35l-76.8-0.2z"/>
+		<path id="Path 6464" class="s3" d="m59 122.4c-7.2-9.8-11.9-21.1-13.9-33.1-1.9-11.9-1-24.2 2.7-35.7 3.7-11.6 10.1-22 18.6-30.7 8.5-8.6 19-15 30.5-18.8l24 72.9z"/>
+	</g>
+	<text id="With &gt; 3 Cases" style="transform: matrix(1,0,0,1,220.428,178.553)" >
+		<tspan x="0" y="0" class="t4">With &gt; 3 Cases
+</tspan>
+	</text>
+	<text id="With 2 Cases" style="transform: matrix(1,0,0,1,68.958,178.553)" >
+		<tspan x="0" y="0" class="t4">With 2 Cases
+</tspan>
+	</text>
+	<text id="With 1 Case" style="transform: matrix(1,0,0,1,146.701,178.553)" >
+		<tspan x="0" y="0" class="t4">With 1 Case
+</tspan>
+	</text>
+	<text id="No Cases" style="transform: matrix(1,0,0,1,7.679,178.553)" >
+		<tspan x="0" y="0" class="t4">No Cases
+</tspan>
+	</text>
+	<path id="Rectangle 434" class="s3" d="m0.1 175.6c0-1.2 1-2.1 2.1-2.1 1.1 0 2 0.9 2 2.1 0 1.1-0.9 2-2 2-1.1 0-2.1-0.9-2.1-2z"/>
+	<path id="Rectangle 435" class="s2" d="m59.5 175.6c0-1.2 0.9-2.1 2-2.1 1.1 0 2 0.9 2 2.1 0 1.1-0.9 2-2 2-1.1 0-2-0.9-2-2z"/>
+	<path id="Rectangle 436" class="s0" d="m137.5 175.6c0-1.2 0.9-2.1 2-2.1 1.1 0 2.1 0.9 2.1 2.1 0 1.1-1 2-2.1 2-1.1 0-2-0.9-2-2z"/>
+	<path id="Rectangle 437" class="s1" d="m209.7 175.6c0-1.2 0.9-2.1 2.1-2.1 1.1 0 2 0.9 2 2.1 0 1.1-0.9 2-2 2-1.2 0-2.1-0.9-2.1-2z"/>
+</svg>

@@ -1,0 +1,48 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 357 178" width="357" height="178">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 15px;fill: #444444;font-family: "D IN Next LT Arabic" } 
+		.t1 { font-size: 12px;fill: #444444;font-family: "D IN Next LT Arabic" } 
+		.s2 { fill: none;stroke: #707070 } 
+		.s3 { fill: none;stroke: #d9d9d9 } 
+	</style>
+	<text id="0" style="transform: matrix(1,0,0,1,79,35)" >
+		<tspan x="0" y="0" class="t0">0
+</tspan>
+	</text>
+	<text id="0" style="transform: matrix(1,0,0,1,79,93)" >
+		<tspan x="0" y="0" class="t0">0
+</tspan>
+	</text>
+	<text id="0" style="transform: matrix(1,0,0,1,79,145)" >
+		<tspan x="0" y="0" class="t0">0
+</tspan>
+	</text>
+	<text id="Maroor" style="transform: matrix(1,0,0,1,9,100)" >
+		<tspan x="0" y="0" class="t1">Maroor
+</tspan>
+	</text>
+	<text id="Rejected
+Cases" style="transform: matrix(1,0,0,1,0,142)" >
+		<tspan x="0" y="0" class="t1">Rejected
+</tspan>
+		<tspan x="0" y="14.4" class="t1">Cases
+</tspan>
+	</text>
+	<path id="Path 6476" class="s2" d="m355.5 168.2h-292.9v-167.7"/>
+	<path id="Line 11" class="s3" d="m117.5 0.2v177.2"/>
+	<path id="Line 18" class="s3" d="m355 15.9h-302.8"/>
+	<path id="Line 19" class="s3" d="m356.1 57.9h-303.5"/>
+	<path id="Line 20" class="s3" d="m356.1 115.8h-303.5"/>
+	<path id="Line 12" class="s3" d="m156.3 0.2v177.2"/>
+	<path id="Line 13" class="s3" d="m195.1 0.2v177.2"/>
+	<path id="Line 14" class="s3" d="m233.9 0.2v177.2"/>
+	<path id="Line 15" class="s3" d="m272.6 0.2v177.2"/>
+	<path id="Line 16" class="s3" d="m311.4 0.2v177.2"/>
+	<path id="Line 17" class="s3" d="m350.2 0.2v177.2"/>
+	<text id="Najm" style="transform: matrix(1,0,0,1,20,45)" >
+		<tspan x="0" y="0" class="t1">Najm
+</tspan>
+	</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42" width="42" height="42">
+	<title>New Project</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-1.8369701987210297e-16" dy="3" stdDeviation="2.916666666666667" flood-color="#000000" flood-opacity=".2"/></filter>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: #d6e6de } 
+		.s1 { fill: none;stroke: #32835b;stroke-linecap: round;stroke-width: 2 } 
+	</style>
+	<path id="Ellipse 115" class="s0" d="m21 42c-11.6 0-21-9.4-21-21 0-11.6 9.4-21 21-21 11.6 0 21 9.4 21 21 0 11.6-9.4 21-21 21z"/>
+	<g id="Group 4561">
+		<path id="Ellipse 116" class="s1" d="m21.5 32c-5.8 0-10.5-4.7-10.5-10.5 0-5.8 4.7-10.5 10.5-10.5 5.8 0 10.5 4.7 10.5 10.5 0 5.8-4.7 10.5-10.5 10.5z"/>
+		<path id="Line 32" class="s1" d="m13.7 14l15.2 15.2"/>
+	</g>
+</svg>
